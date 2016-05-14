@@ -1,0 +1,43 @@
+div>div{
+	width:31.25px;
+	height:31.25px;
+	background-color: #FFFFCC;
+	display: inline-block;
+}
+
+.etched{
+
+	background-color:rgb(,0,0);
+
+}
+
+body{
+	line-height:0px;
+ }
+
+ .container{
+ 	width:500px;
+ 	margin:0px auto;
+ 	border:60px solid red;
+
+ }
+ button{
+
+ 	display:inline-block;
+ 	margin:0 auto;
+ 	width:150px;
+ }
+
+h2{
+	text-align: center;
+	font-family:cursive;
+}
+
+span{
+	display:block;
+	width:500px;
+	margin:10px auto;
+	text-align:center;
+	background-color:blue;
+	border-radius: 8px;
+}
